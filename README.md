@@ -1,2 +1,2 @@
 # hello-world
-big ideas lap repository 
+big ideas lab repository 
